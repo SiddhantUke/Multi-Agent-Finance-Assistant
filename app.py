@@ -1,5 +1,5 @@
 import streamlit as st
-from src.multi-agent-finance-assistant.orchestrator.main_orchestrator import run_pipeline
+from orchestrator.main_orchestrator import run_pipeline
 from gtts import gTTS
 from agents.voice_agent import text_to_speech
 
