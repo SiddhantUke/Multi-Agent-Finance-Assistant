@@ -35,12 +35,19 @@ Data Sources: Yahoo Finance, Reuters
 
 finance-assistant/
 ├── agents/               # All individual agent modules
+
 ├── data_ingestion/       # Market data loader
+
 ├── orchestrator/         # Main pipeline logic
+
 ├── streamlit_app/        # UI entry point
+
 ├── docs/                 # Documentation
+
 ├── requirements.txt
+
 ├── Dockerfile
+
 └── README.md
 
 
